@@ -1,0 +1,45 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 5CB9-98F6
+
+ Directory of C:\Users\wasee\Documents\GitHub\niece-trip\images
+
+2026/10/08  06:57    <DIR>          .
+2026/10/01  23:13    <DIR>          ..
+2026/10/01  23:14    <DIR>          Day 10a. Noordhoek Long Beach Horse Ride
+2026/10/01  23:14    <DIR>          Day 10b. Cape Point Vineyards Dinner
+2026/10/02  00:16    <DIR>          Day 11a. Lazy Day
+2026/10/02  00:19    <DIR>          Day 12a. Table Mountain
+2026/10/02  00:20    <DIR>          Day 12b. Two Oceans Aquarium
+2026/10/03  00:04    <DIR>          Day 13a. Sightseeing
+2026/10/01  23:14    <DIR>          Day 14a. Atlantis Dunes
+2026/10/01  23:14    <DIR>          Day 14b. Atlantis Meet Your Aunts
+2026/10/02  00:44    <DIR>          Day 14c. Eden on the Bay
+2026/10/02  00:38    <DIR>          Day 15a. Cape Point
+2026/10/02  00:39    <DIR>          Day 15b. Simons Town Navy Museum
+2026/10/02  00:35    <DIR>          Day 16a. Elephants Eye Hike
+2026/10/01  23:14    <DIR>          Day 17a.Cape Town Airport Tour
+2026/10/01  23:14    <DIR>          Day 17b.Mugg and Bean Farewell Dinner
+2026/10/01  23:14    <DIR>          Day 1a.Karbros Midnight Giemba
+2026/10/01  23:14    <DIR>          Day 2a.The Old Biscuit Mill
+2026/10/01  23:14    <DIR>          Day 2b.Camps Bay Beach
+2026/10/01  23:14    <DIR>          Day 3a.Hout Bay Market
+2026/10/01  23:14    <DIR>          Day 3b.Hout Bay Seal Island Boat Trip
+2026/10/01  23:14    <DIR>          Day 3c. Hout Bay The Lookout Lunch
+2026/10/02  23:47    <DIR>          Day 4a. Cape Town Library
+2026/10/02  23:48    <DIR>          Day 4b. Iziko Museum
+2026/10/02  23:50    <DIR>          Day 4c. Sonny and Irene Lunch
+2026/10/01  23:43    <DIR>          Day 4d. Love Matcha
+2026/10/02  23:54    <DIR>          Day 4e. Big Wheel and Sunset Cruise
+2026/10/01  23:48    <DIR>          Day 4f. Quay Four Birthday Dinner
+2026/10/01  23:57    <DIR>          Day 5a. Muizenberg Beach
+2026/10/01  23:59    <DIR>          Day 5b. St James Tidal Pool
+2026/10/02  00:01    <DIR>          Day 5c. Hudsons Dinner
+2026/10/01  23:51    <DIR>          Day 6a. Boulders Beach and Penguins
+2026/10/01  23:14    <DIR>          Day 7a. Red Bus Tour - Kirstenbosch
+2026/10/01  23:14    <DIR>          Day 7b. Red Bus Tour - World Of Birds
+2026/10/01  23:14    <DIR>          Day 7b. V&A Waterfront Sevruga Dinner
+2026/10/02  00:11    <DIR>          Day 8a. Canal Walk
+2026/10/01  23:21    <DIR>          Day 9a. Crystal Pools Hike
+2026/10/08  06:57                 0 list.txt
+               1 File(s)              0 bytes
+              37 Dir(s)  420ÿ475ÿ727ÿ872 bytes free
